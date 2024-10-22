@@ -1,0 +1,5 @@
+azure-functions==1.13.0
+pyodbc==4.0.32                
+SQLAlchemy==2.0.20            
+pandas==2.0.3                 
+msal==1.21.0                  
